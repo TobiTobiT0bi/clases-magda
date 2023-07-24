@@ -137,10 +137,10 @@ namespace EOPAM_02
             Persona full = new Persona(nomb, edad, sexo, peso, altura);
             List<Persona> personas = new List<Persona>();
 
-
             personas.Add(full);
             personas.Add(medio);
-            personas.Add(vacio);
+            personas.Add(vacio); 
+
             Console.Clear();
 
             foreach (Persona per in personas) {
