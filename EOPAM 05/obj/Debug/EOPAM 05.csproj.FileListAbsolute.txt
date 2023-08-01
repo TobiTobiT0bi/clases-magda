@@ -1,0 +1,8 @@
+E:\repos\clases-magda\EOPAM 05\bin\Debug\EOPAM 05.exe.config
+E:\repos\clases-magda\EOPAM 05\bin\Debug\EOPAM 05.exe
+E:\repos\clases-magda\EOPAM 05\bin\Debug\EOPAM 05.pdb
+E:\repos\clases-magda\EOPAM 05\obj\Debug\EOPAM 05.csproj.AssemblyReference.cache
+E:\repos\clases-magda\EOPAM 05\obj\Debug\EOPAM 05.csproj.SuggestedBindingRedirects.cache
+E:\repos\clases-magda\EOPAM 05\obj\Debug\EOPAM 05.csproj.CoreCompileInputs.cache
+E:\repos\clases-magda\EOPAM 05\obj\Debug\EOPAM 05.exe
+E:\repos\clases-magda\EOPAM 05\obj\Debug\EOPAM 05.pdb
